@@ -1,0 +1,21 @@
+*{scroll-behavior: smooth;}
+
+#footer_section{
+	background-color: #EEEEF0;
+	width: 100%;
+	position: absolute;
+}
+
+.footer
+{
+    height: 50px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+.avatar{
+    width: 500 px;
+}
